@@ -1,6 +1,6 @@
 ![](https://img.shields.io/maintenance/YES/2019.svg?style=flat)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/isolation0)
+[![Open Source Love svg1](https://github.com/isolation0)](https://github.com/isolation0)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
@@ -31,8 +31,8 @@ Its easy to install just follow the step one by one :-
 ```bash
 1.) sudo apt-get update
 2.) sudo apt-get upgrade
-3.) git clone https://github.com/ASHWIN990/NMAP-Scannner.git
-4.) cd NMAP-Scanner
+3.) git clone https://github.com/isolation0/nmap-Scanner.git
+4.) cd nmap-Scanner
 5.) chmod +x install.sh
 6.) chmod +x nmap-scanner.sh
 7.) sudo ./install.sh
@@ -41,6 +41,6 @@ Its easy to install just follow the step one by one :-
 
 ## Author
 
-* **ASHWINI SAHU** - *WHOLE WORK* - (https://github.com/ASHWIN990)
+* **ASHWINI SAHU** - *WHOLE WORK* - (https://github.com/isolation0)
 
 Check NMAP website for more help : (https://nmap.org/)
