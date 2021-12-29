@@ -41,6 +41,6 @@ Its easy to install just follow the step one by one :-
 
 ## Author
 
-* **ASHWINI SAHU** - *WHOLE WORK* - (https://github.com/isolation0)
+* **isoaltion** - *WHOLE WORK* - (https://github.com/isolation0)
 
 Check NMAP website for more help : (https://nmap.org/)
